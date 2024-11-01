@@ -1,0 +1,33 @@
+span.select2.select2-container.select2-container--default {
+    width: 350px !important;
+}
+input.select2-search__field {
+    margin-left: 5px !important;
+}
+.logoWrap {
+    display: flex;
+    width: 30%;
+    flex-wrap: wrap;
+}
+.preview {
+    width: 100%;
+}
+#start {
+    float: left;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+#dashboard{
+    width: fit-content;
+    float: left;
+}
+
+.visibilityItem.allPages label {
+    margin-top: -5px;
+    margin-left: 2px;
+    margin-right: 40px;
+}
+
+.visibilityItem.allPages {
+    display: flex;
+}
